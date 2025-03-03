@@ -1,7 +1,5 @@
 # Secure-VPC-Peering-for-Multi-Cloud-Connectivity
 
-# 🚀 Secure VPC Peering in AWS for Multi-Environment Architecture
-
 ## 📌 Project Overview
 This project demonstrates **secure VPC-to-VPC peering** in AWS, enabling private communication between multiple **Virtual Private Clouds (VPCs)** without using the public internet. The architecture ensures **scalability, security, and high availability** for cloud environments.
 
